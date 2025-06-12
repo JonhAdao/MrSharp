@@ -1,4 +1,7 @@
-package com.senac.projetomaster.model;
+package com.senac.projetosrsharp.model;
+
+import com.senac.projetosrsharp.model.Endereco;
+import com.senac.projetosrsharp.model.Contato;
 
 /**
  *
